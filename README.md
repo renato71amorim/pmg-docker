@@ -265,13 +265,3 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir **issues** ou en
 **⭐ Se este projeto foi útil, considere dar uma estrela no GitHub!**
 ````
 
-### 📌 Próximos passos
-
-Depois de colar o conteúdo no `README.md`, faça o commit e o push:
-
-```bash
-cd ~/Projetos/pmg-docker
-git add README.md
-git commit -m "docs: adiciona README completo"
-git push origin main
-```
