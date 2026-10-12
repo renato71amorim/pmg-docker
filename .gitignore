@@ -1,0 +1,12 @@
+# Dados persistentes (não versionar)
+config/
+data/
+spool/
+postgres/
+
+# Arquivo de segredos
+.env
+
+# Arquivos de sistema
+.DS_Store
+*.log
